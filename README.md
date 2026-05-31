@@ -32,9 +32,9 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 
 
 ## Circuit Diagram:
-<img width="1205" height="486" alt="image" src="https://github.com/user-attachments/assets/bce94cac-3026-4598-aa57-0df0a5b7dbc1" />
+<img width="635" height="751" alt="{EC16B1F4-2641-4639-B40F-D780BE51CBD8}" src="https://github.com/user-attachments/assets/fcb58fad-b0d1-47df-93eb-59040d2ef4b0" />
 
-
+<img width="923" height="240" alt="image" src="https://github.com/user-attachments/assets/df5f25f6-95a3-4bf9-9b03-2695ca4aeb48" />
 
 ## FORMULA: 
     Find L (Unknown inductance)
@@ -44,5 +44,7 @@ STEP 8 : Click on   RESET  button to reset the webpage.
     Where, R1=P+Q+X
 
     R2 = minimum we will neglect it
+<img width="912" height="405" alt="image" src="https://github.com/user-attachments/assets/5f6e7d2e-0965-4328-8b03-76ca550634d9" />
 
   ## Result: 
+Thus unknown inductance was measured using the Maxwell Bridge balance condition.
